@@ -8,6 +8,8 @@ public class Array {
         // arr[0] = 10;
         // arr[1] = 10;
         // arr[2] = 10;
+
+        
         // arr[3] = 10;
         // arr[4] = 10;
 
@@ -23,8 +25,8 @@ public class Array {
 
         // int[] arr = {1, 2, 3, 4, 5};
 
-        for (int i = arr.length - 1; i >= 0; i--) {
-            System.out.println(arr[i]);
-        }
+        //for (int i = arr.length - 1; i >= 0; i--) {
+            //System.out.println(arr[i]);
+       // }
     }
 }
